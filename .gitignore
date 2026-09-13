@@ -1,0 +1,10 @@
+# TLC output
+*.log
+states/
+Approval_TTrace_*
+_*.cfg
+
+# the checker itself (download with `curl -LO`, see README)
+tla2tools.jar
+
+.DS_Store
